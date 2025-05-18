@@ -9,6 +9,3 @@ This project contains Python scripts that interact with the OpenAI API to perfor
 
 
 Make sure your `OPENAI_API_KEY` environment variable is set before running the scripts.
-
-
-Bla bla bla
